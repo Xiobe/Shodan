@@ -16,6 +16,9 @@ This will return the page https://www.shodan.io/host/193.191.245.244. You will s
 
 What we actually did was use a shortcut for the filter ```ip:"193.191.245.244"```. Filters is where the power is in any search engine.
 
+### Searching for malware
+If you want to create a list of all malware instances Shodan detected in order to protect your organization you can use the filter ```category:malware```.  We can combine this with other filters for example if we want to know which malware was detected for Belgium we can set the filter to ```category:malware country:be```. Since Belgium is a tiny country the results are not spectacular but try ```category:malware country:us,ru,br```. This filter combines the US, Russia an Brazil. They are big so it is only logical to find more.
+
 ## Shodan for offense
 
 ### Searching on IP
