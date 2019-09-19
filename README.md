@@ -32,3 +32,19 @@ Address: 193.191.245.244
 This will return the page https://www.shodan.io/host/193.191.245.244. You will see which open ports Shodan discovered.
 
 What we actually did was use a shortcut for the filter ```ip:"193.191.245.244"```. Filters is where the power is in any search engine.
+
+## Shodan filters
+This is a summary of filters
+
+### Generic filters
+
+| Name        | Description           | Type  | Example  |
+| ------------- |:-------------| :-----| :-----|
+| ip      | Searches for the IP address of a specific host | string | ```ip:"193.191.245.244"``` |
+| country      | Searches for a specific country | string | ```country:"be"``` |
+
+### Specialized filters
+
+| Name        | Description           | Type  | Example  |
+| ------------- |:-------------| :-----| :-----|
+| catergory:"malware"      | Searches for malware | string | ```category:"malware"``` |
