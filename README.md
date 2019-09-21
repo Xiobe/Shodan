@@ -33,6 +33,15 @@ The [S7](https://en.wikipedia.org/wiki/Simatic_S5_PLC) protocol is a [Siemens](h
 
 To search for Siemens S7 devices search for ```port:102```
 
+#### DNP3
+Tbe [Distributed Network Protocol version 3](https://en.wikipedia.org/wiki/DNP3) is a communications protocol set used between components in process automation systems. It is mainly used in utility companies such as electric and water companies.
+
+To search for [DNP3](https://ieeexplore.ieee.org/document/5518537) devices search for ```port:20000 source address```
+
+
+
+####
+
 ## Shodan for offense
 
 ### Searching on IP
@@ -58,6 +67,11 @@ To search for modbus devices search for ```port:502```
 The [S7](https://en.wikipedia.org/wiki/Simatic_S5_PLC) protocol is a [Siemens](https://en.wikipedia.org/wiki/Siemens) proprietary protocol that runs between programmable logic controllers of the Siemens S7 family.
 
 To search for Siemens S7 devices search for ```port:102```
+
+#### DNP3
+Tbe [Distributed Network Protocol version 3](https://en.wikipedia.org/wiki/DNP3) is a communications protocol set used between components in process automation systems. It is mainly used in utility companies such as electric and water companies.
+
+To search for [DNP3](https://ieeexplore.ieee.org/document/5518537) devices search for ```port:20000 source address```
 
 ## Shodan filters
 This is a summary of filters
