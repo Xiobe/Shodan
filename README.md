@@ -24,9 +24,14 @@ This allows us to create a map of "The united malware of Europe" with the search
 ### Searching for industrial control systems (ics)
 
 #### Modbus
-Modbus is a protocol for ics, it provides you with raw access to the control system without requiring any authentication. It means that if you have your systems in the result set you have an issue.
+[Modbus](https://en.wikipedia.org/wiki/Modbus) is a protocol for ics, it provides you with raw access to the control system without requiring any authentication. It means that if you have your systems in the result set you have an issue.
 
 To search for modbus devices search for ```port:502```
+
+#### Siemens
+The [S7](https://en.wikipedia.org/wiki/Simatic_S5_PLC) protocol is a [Siemens](https://en.wikipedia.org/wiki/Siemens) proprietary protocol that runs between programmable logic controllers of the Siemens S7 family.
+
+To search for Siemens S7 devices search for ```port:102```
 
 ## Shodan for offense
 
@@ -48,6 +53,11 @@ What we actually did was use a shortcut for the filter ```ip:"193.191.245.244"``
 Modbus is a protocol for ics, it provides you with raw access to the control system without requiring any authentication. It means that if you have your systems in the result set you have an issue.
 
 To search for modbus devices search for ```port:502```
+
+#### Siemens
+The [S7](https://en.wikipedia.org/wiki/Simatic_S5_PLC) protocol is a [Siemens](https://en.wikipedia.org/wiki/Siemens) proprietary protocol that runs between programmable logic controllers of the Siemens S7 family.
+
+To search for Siemens S7 devices search for ```port:102```
 
 ## Shodan filters
 This is a summary of filters
