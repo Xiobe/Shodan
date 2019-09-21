@@ -82,6 +82,7 @@ This is a summary of filters
 | ------------- |:-------------| :-----| :-----|
 | ip      | Searches for the IP address of a specific host | string | ```ip:"193.191.245.244"``` |
 | country      | Searches for a specific country | string | ```country:"be"``` |
+| port | Searches for a specific port number | integer | ```port:80``` |
 
 ### Specialized filters
 
