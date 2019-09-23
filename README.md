@@ -38,7 +38,10 @@ Tbe [Distributed Network Protocol version 3](https://en.wikipedia.org/wiki/DNP3)
 
 To search for [DNP3](https://ieeexplore.ieee.org/document/5518537) devices search for ```port:20000 source address```
 
+#### Niagara
+The [Niagara framework from Tridium](https://www.tridium.com/en/products-services/niagara-ax) is most commonly seen in building automation systems.
 
+To search for Niagara systems search for ```port:1911,4911 product:Niagara```
 
 ####
 
@@ -72,6 +75,11 @@ To search for Siemens S7 devices search for ```port:102```
 Tbe [Distributed Network Protocol version 3](https://en.wikipedia.org/wiki/DNP3) is a communications protocol set used between components in process automation systems. It is mainly used in utility companies such as electric and water companies.
 
 To search for [DNP3](https://ieeexplore.ieee.org/document/5518537) devices search for ```port:20000 source address```
+
+#### Niagara
+The [Niagara framework from Tridium](https://www.tridium.com/en/products-services/niagara-ax) is most commonly seen in building automation systems.
+
+To search for Niagara systems search for ```port:1911,4911 product:Niagara```
 
 ## Shodan filters
 This is a summary of filters
