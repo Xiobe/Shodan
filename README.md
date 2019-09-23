@@ -48,6 +48,11 @@ BACnet is also a building automation protocol. You can see this protocol for Sie
 
 To search for BACnet systems search for ```port:47808```
 
+#### EtherNet/IP
+[EtherNet/IP](https://en.wikipedia.org/wiki/EtherNet/IP) is another protocol used in automation.
+
+Systems using the EtherNet/IP protocol can be found by searching for ```port:44818```
+
 ## Shodan for offense
 
 ### Searching on IP
@@ -88,6 +93,11 @@ To search for Niagara systems search for ```port:1911,4911 product:Niagara```
 BACnet is also a building automation protocol. You can see this protocol for Siemens Building Technologies, Honeywell, DAIKIN Industries LTD, ...
 
 To search for BACnet systems search for ```port:47808```
+
+#### EtherNet/IP
+[EtherNet/IP](https://en.wikipedia.org/wiki/EtherNet/IP) is another protocol used in automation.
+
+Systems using the EtherNet/IP protocol can be found by searching for ```port:44818```
 
 ## Shodan filters
 This is a summary of filters
