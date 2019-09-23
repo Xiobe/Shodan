@@ -44,7 +44,7 @@ The [Niagara framework from Tridium](https://www.tridium.com/en/products-service
 To search for Niagara systems search for ```port:1911,4911 product:Niagara```
 
 #### BACnet
-BACnet is also a building automation protocol.
+BACnet is also a building automation protocol. You can see this protocol for Siemens Building Technologies, Honeywell, DAIKIN Industries LTD, ...
 
 To search for BACnet systems search for ```port:47808```
 
@@ -85,7 +85,7 @@ The [Niagara framework from Tridium](https://www.tridium.com/en/products-service
 To search for Niagara systems search for ```port:1911,4911 product:Niagara```
 
 #### BACnet
-BACnet is also a building automation protocol.
+BACnet is also a building automation protocol. You can see this protocol for Siemens Building Technologies, Honeywell, DAIKIN Industries LTD, ...
 
 To search for BACnet systems search for ```port:47808```
 
